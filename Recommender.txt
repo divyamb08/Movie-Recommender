@@ -16,4 +16,4 @@ we will recommend that new movie to user 2 if user 1 gives a higher rating for t
 In recent years, Youtube has switched to a Hybrid version. We can now see content based as well as Collaborative based systems.
 
 
-In this project, we are using content based systems.
+In this project, I am using content based systems.
