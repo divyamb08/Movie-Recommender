@@ -1,0 +1,19 @@
+We need recommender systems to generate quick recommendations for the customers within an ocean of products.
+The main idea is to provide the customers with the most useful product in the least amount of time.
+
+There are 3 types of recommender systems:
+1. Content Based Systems.
+Recommendations are offered based on the similarity of the content.
+Eg. We usually see content based systems on Youtube where if you are watching Football content then you will see recommendation videos for Football.
+
+2. Collaborative Filtering Systems.
+Content is recommended based on user interest and similarity.
+Eg. There are 2 users who are extremely similar. The similarity of the users is found to be high as they watch the same set of movies and the 
+ratings given by them is also highly similar. Now, we see that user 1 is watching a new movie. As the similarity is high between the two users
+we will recommend that new movie to user 2 if user 1 gives a higher rating for the movie.
+
+3. Hybrid
+In recent years, Youtube has switched to a Hybrid version. We can now see content based as well as Collaborative based systems.
+
+
+In this project, we are using content based systems.
